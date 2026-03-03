@@ -157,7 +157,3 @@ Edit parameters directly in `simulate_heat_1d.m`.
 - All functions used (`spdiags`, `timeit`, `datetime`, `xline`) are in MATLAB core
 
 ---
-
-## License
-
-MIT — see [LICENSE](LICENSE).
