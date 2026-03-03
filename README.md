@@ -1,4 +1,4 @@
-# Matlab Numerical Modelling and Performance optimization — MATLAB
+# Matlab Numerical Modelling and Performance optimization 
 
 Numerical simulation of the **1D heat equation** using **Forward Euler** and **classical 4th-order Runge-Kutta (RK4)**, validated against a closed-form analytical solution.
 
